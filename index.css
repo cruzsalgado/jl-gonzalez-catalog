@@ -339,6 +339,7 @@ body:not(.user-is-tabbing) a:focus {
     display: flex;
     justify-content: flex-end;
     padding: var(--gutter-normal) 0;
+    background-color: red;
 }
 
 .nav__items {
